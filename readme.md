@@ -114,3 +114,6 @@ Projects will be added here as I complete them.
 <p align="center">
   Learning by building, one project at a time.
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=siddharthasiddhu073-oss&hide_border=true" alt="GitHub Streak" />
+</p>
